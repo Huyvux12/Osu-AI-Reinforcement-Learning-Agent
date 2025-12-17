@@ -25,4 +25,4 @@ Dự án **mới bắt đầu**.
 Mình sẽ cập nhật mã nguồn, mô hình và tài liệu theo từng giai đoạn.
 
 ## 📂 Kế hoạch thư mục (dự kiến)
-kkế hoạch dự kiến
+sẽ sửa sau
