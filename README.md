@@ -26,3 +26,4 @@ Mình sẽ cập nhật mã nguồn, mô hình và tài liệu theo từng giai 
 
 ## 📂 Kế hoạch thư mục (dự kiến)
 sẽ sửa sau
+thêm vài số thứ
