@@ -2,7 +2,7 @@
 # 🎵 OsuAI-RL-Agent
 Một dự án thử nghiệm xây dựng **AI chơi osu!** bằng **học tăng cường (Reinforcement Learning)** và **Deep Learning**.
 
-## 📌 Giới thiệu thêm và thứ nhiệm
+## 📌 Giới thiệu (không sửa nữa)
 `OsuAI-RL-Agent` là dự án mình phát triển nhằm tạo ra một agent có khả năng:
 - Tự học cách **aim** vào các circle trong osu!  
 - Tự học **thời điểm click** theo beat  
